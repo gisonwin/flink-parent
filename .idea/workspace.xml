@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../ceshiyun/cloud-testproject/pom.xml" description="&lt;!-- 服务间互相调用 --&gt;" line="17" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc211364-d877-48bf-b201-47c818b8a3da" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/flink-examples/target/" />
+    <ignored path="$PROJECT_DIR$/flink-connector-kafka/target/" />
+    <ignored path="$PROJECT_DIR$/flink-portrait/target/" />
+    <ignored path="$PROJECT_DIR$/register-certer/target/" />
+    <ignored path="$PROJECT_DIR$/info-in/target/" />
+    <ignored path="$PROJECT_DIR$/e-mark-seata/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/e-mark-seata/src/main/java/com/gison/win/flink/service/AccountService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/e-mark-seata/src/main/java/com/gison/win/flink/service/BusinessService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3542">
+              <caret line="161" column="58" selection-start-line="161" selection-start-column="58" selection-end-line="161" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/e-mark-seata/src/main/java/com/gison/win/flink/service/impl/BusinessServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/e-mark-seata/src/main/java/com/gison/win/flink/service/impl/OrderServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#997#998#0" expanded="true" />
+                <element signature="e#1021#1022#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flink-examples/src/main/java/com/gison/win/flink/flinkexamples/FlinkExamplesApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/info-in/src/main/java/com/gisonwin/micro/InfoInServiceApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/register-certer/src/main/java/com/gisonwin/micro/registercerter/RegisterCerterApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/e-mark-seata/src/main/java/com/gison/win/flink/dao/OrderDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/e-mark-seata/src/main/java/com/gison/win/flink/model/SeataOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>requireNonNull</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/flink-portrait/pom.xml" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/util/MongoUtils.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/map/YearBaseMap.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/util/CarrierUtils.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/entity/CarrierInfo.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/reduce/CarrierReduce.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/task/YearBaseTask.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/map/CarrierMap.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/task/CarrierTask.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/entity/SpendthriftInfo.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/reduce/SpendthriftReduce.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/map/SpendthriftMap.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/util/DateUtils.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/task/SpendthriftTask.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/ScanProductLog.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/log/ScanProductLog.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/log/BuyCartProductLog.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/log/MyFavoriteProductLog.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/log/FollowProductLog.java" />
+        <option value="$PROJECT_DIR$/register-certer/pom.xml" />
+        <option value="$PROJECT_DIR$/register-certer/src/main/java/com/gisonwin/micro/registercerter/RegisterCerterApplication.java" />
+        <option value="$PROJECT_DIR$/info-in/src/main/java/com/gisonwin/micro/info/InfoInApplication.java" />
+        <option value="$PROJECT_DIR$/info-in/src/main/java/com/gisonwin/micro/info/InfoInServiceApplication.java" />
+        <option value="$PROJECT_DIR$/info-in/src/main/java/com/gisonwin/micro/InfoInServiceApplication.java" />
+        <option value="$PROJECT_DIR$/info-in/src/main/java/com/gisonwin/micro/info/ResultMessage.java" />
+        <option value="$PROJECT_DIR$/info-in/pom.xml" />
+        <option value="$PROJECT_DIR$/info-in/src/main/java/com/gisonwin/micro/entity/ResultMessage.java" />
+        <option value="$PROJECT_DIR$/info-in/src/main/java/com/gisonwin/micro/controller/InfoInController.java" />
+        <option value="$PROJECT_DIR$/info-in/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/register-certer/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/task/BrandLikeTask.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/README.md" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/kmeans/DistanceCompute.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/kmeans/Point.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/kmeans/Cluster.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/kmeans/KMeansRun.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/kmeans/Main.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/kmeans/KMeansInfo.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/kmeans/KMeansMap.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/kmeans/KMeansReduce.java" />
+        <option value="$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/kmeans/KMeansTask.java" />
+        <option value="$PROJECT_DIR$/e-mark-seata/src/main/java/com/gison/win/flink/service/StorageService.java" />
+        <option value="$PROJECT_DIR$/e-mark-seata/src/main/java/com/gison/win/flink/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/e-mark-seata/src/main/java/com/gison/win/flink/service/AccountService.java" />
+        <option value="$PROJECT_DIR$/e-mark-seata/src/main/java/com/gison/win/flink/service/BusinessService.java" />
+        <option value="$PROJECT_DIR$/e-mark-seata/src/main/java/com/gison/win/flink/model/SeataOrder.java" />
+        <option value="$PROJECT_DIR$/e-mark-seata/src/main/java/com/gison/win/flink/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/e-mark-seata/src/main/java/com/gison/win/flink/dao/OrderDAO.java" />
+        <option value="$PROJECT_DIR$/e-mark-seata/pom.xml" />
+        <option value="$PROJECT_DIR$/e-mark-seata/src/main/java/com/gison/win/flink/service/impl/BusinessServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="info-in" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="453" />
+    <option name="y" value="143" />
+    <option name="width" value="1130" />
+    <option name="height" value="546" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="flink-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="e-mark-seata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="e-mark-seata" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="e-mark-seata" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="e-mark-seata" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="e-mark-seata" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="flink" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="e-mark-seata" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="flink" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="e-mark-seata" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="flink" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="e-mark-seata" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="flink" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="e-mark-seata" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="flink" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="info-in" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="info-in" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="info-in" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="info-in" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="info-in" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="micro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="register-certer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="register-certer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="register-certer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="register-certer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flink-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flink-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="register-certer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="registercerter" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ceshiyun" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\sourcecode\flink-parent\flink-examples\src\main\resources" />
+      <recent name="D:\workspace\sourcecode\flink-parent\flink-examples\src\main\resources\data" />
+      <recent name="D:\workspace\sourcecode\flink-parent\flink-examples\target\classes\data" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gisonwin.kmeans" />
+      <recent name="com.gisonwin.task" />
+      <recent name="com.gisonwin.log" />
+      <recent name="com.gisonwin.reduce" />
+      <recent name="com.gisonwin.map" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\sourcecode\flink-parent\flink-examples\src\main\resources" />
+      <recent name="D:\workspace\sourcecode\flink-parent\flink-examples\src\main\java\com\gison\win\flink\flinkexamples" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="BatchWordCountJavaLambda_CN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gison.win.flink.flinkexamples.wordcount.lambda.BatchWordCountJavaLambda_CN" />
+      <module name="flink-examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gison.win.flink.flinkexamples.wordcount.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gisonwin.util.DateUtils" />
+      <module name="flink-portrait" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gisonwin.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElementWindowWordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gison.win.flink.flinkexamples.wordcount.lambda.ElementWindowWordCount" />
+      <module name="flink-examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gison.win.flink.flinkexamples.wordcount.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gisonwin.kmeans.Main" />
+      <module name="flink-portrait" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gisonwin.kmeans.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YearBaseTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gisonwin.task.YearBaseTask" />
+      <module name="flink-portrait" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gisonwin.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlinkExamplesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="flink-examples" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gison.win.flink.flinkexamples.FlinkExamplesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InfoInServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="info-in" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gisonwin.micro.InfoInServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterCerterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="register-certer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gisonwin.micro.registercerter.RegisterCerterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DateUtils" />
+        <item itemvalue="Application.YearBaseTask" />
+        <item itemvalue="Application.BatchWordCountJavaLambda_CN" />
+        <item itemvalue="Application.ElementWindowWordCount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc211364-d877-48bf-b201-47c818b8a3da" name="Default Changelist" comment="" />
+      <created>1571105285229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571105285229</updated>
+      <workItem from="1571105289384" duration="4195000" />
+      <workItem from="1571190384353" duration="30095000" />
+      <workItem from="1571361384584" duration="8877000" />
+      <workItem from="1571376599087" duration="12053000" />
+      <workItem from="1571552842237" duration="5626000" />
+      <workItem from="1571627955846" duration="8816000" />
+      <workItem from="1571647905183" duration="3893000" />
+      <workItem from="1571723868889" duration="8612000" />
+      <workItem from="1571880608845" duration="3345000" />
+      <workItem from="1572486419476" duration="1500000" />
+      <workItem from="1572850980904" duration="1205000" />
+      <workItem from="1573026455739" duration="2208000" />
+      <workItem from="1573089570645" duration="760000" />
+      <workItem from="1573092801336" duration="3743000" />
+      <workItem from="1573175797008" duration="700000" />
+      <workItem from="1573199751851" duration="652000" />
+      <workItem from="1573435672523" duration="641000" />
+      <workItem from="1573521652654" duration="4409000" />
+      <workItem from="1573547866020" duration="1206000" />
+      <workItem from="1573608144922" duration="4655000" />
+      <workItem from="1573781627896" duration="2391000" />
+      <workItem from="1573909882024" duration="2094000" />
+      <workItem from="1574143479651" duration="74000" />
+      <workItem from="1574229870925" duration="1328000" />
+      <workItem from="1574237474461" duration="3915000" />
+      <workItem from="1574297762629" duration="828000" />
+      <workItem from="1574302736126" duration="18492000" />
+      <workItem from="1574384873242" duration="15448000" />
+      <workItem from="1574428895728" duration="23816000" />
+      <workItem from="1574736550310" duration="4498000" />
+      <workItem from="1574817636366" duration="2897000" />
+      <workItem from="1574927048716" duration="4605000" />
+      <workItem from="1575268881655" duration="1062000" />
+      <workItem from="1576053178469" duration="492000" />
+      <workItem from="1576327816371" duration="1380000" />
+      <workItem from="1576410426024" duration="4362000" />
+      <workItem from="1576482822787" duration="918000" />
+      <workItem from="1576545163787" duration="3093000" />
+      <workItem from="1576596696487" duration="672000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="199556000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Web" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.23676248" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" visible="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3112245" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32820514" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.76153845" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.57312924" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Spring" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Structure" order="5" weight="0.19742814" />
+      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.12708019" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Database" order="9" weight="0.3290469" />
+      <window_info anchor="right" id="SciView" order="10" />
+      <window_info anchor="right" id="Mongo Explorer" order="11" weight="0.13918306" />
+      <window_info anchor="right" id="Bean Validation" order="12" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/log/BuyCartProductLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/log/MyFavoriteProductLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/log/ScanProductLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_131/src.zip!/java/time/Duration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="1184" column="16" selection-start-line="1184" selection-start-column="16" selection-end-line="1184" selection-end-column="16" />
+          <folding>
+            <element signature="e#26016#26017#0" expanded="true" />
+            <element signature="e#26046#26047#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flink-portrait/flink-portrait.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flink-portrait/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register-certer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="44" column="61" selection-start-line="44" selection-start-column="61" selection-end-line="44" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register-certer/src/test/java/com/gisonwin/micro/registercerter/RegisterCerterApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/info-in/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/task/BrandLikeTask.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register-certer/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/info-in/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_131/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="333" selection-start-line="333" selection-end-line="333" />
+          <folding>
+            <element signature="e#11597#11598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_131/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="356" selection-start-line="356" selection-end-line="356" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26-sources.jar!/org/slf4j/LoggerFactory.java" />
+    <entry file="file://$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/kmeans/Cluster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_131/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28974">
+          <caret line="1393" selection-start-line="1393" selection-end-line="1393" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flink-portrait/Typora编写基于LaTex的常见数学公式示例(GisonWin).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2508" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/kmeans/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/kmeans/DistanceCompute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/kmeans/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_131/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30140">
+          <caret line="1429" selection-start-line="1429" selection-end-line="1429" />
+          <folding>
+            <element signature="e#55110#55111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_131/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3124">
+          <caret line="171" selection-start-line="171" selection-end-line="171" />
+          <folding>
+            <element signature="e#3709#3710#0" expanded="true" />
+            <element signature="e#3746#3747#0" expanded="true" />
+            <element signature="e#6499#6500#0" expanded="true" />
+            <element signature="e#8033#8034#0" expanded="true" />
+            <element signature="e#8081#8082#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_131/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17710">
+          <caret line="850" selection-start-line="850" selection-end-line="850" />
+          <folding>
+            <element signature="e#10189#10190#0" expanded="true" />
+            <element signature="e#10216#10217#0" expanded="true" />
+            <element signature="e#30684#30685#0" expanded="true" />
+            <element signature="e#30716#30717#0" expanded="true" />
+            <element signature="e#31041#31042#0" expanded="true" />
+            <element signature="e#31086#31087#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_131/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7634">
+          <caret line="386" selection-start-line="386" selection-end-line="386" />
+          <folding>
+            <element signature="e#3504#3505#0" expanded="true" />
+            <element signature="e#3562#3563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flink-portrait/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2794">
+            <caret line="127" column="39" lean-forward="true" selection-start-line="127" selection-start-column="39" selection-end-line="127" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/info-in/src/main/java/com/gisonwin/micro/entity/ResultMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/info-in/src/main/java/com/gisonwin/micro/controller/InfoInController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/kmeans/KMeansInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/kmeans/KMeansTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="37" column="41" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/reduce/CarrierReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.9.1/flink-core-1.9.1.jar!/org/apache/flink/api/common/functions/ReduceFunction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/kmeans/KMeansRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2596">
+          <caret line="121" column="23" selection-start-line="121" selection-start-column="23" selection-end-line="121" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/kmeans/KMeansReduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flink-examples/src/main/java/com/gison/win/flink/flinkexamples/wordcount/BatchWordCountJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flink-examples/src/main/java/com/gison/win/flink/flinkexamples/wordcount/SocketWindowWordCountJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flink-examples/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flink-portrait/src/main/java/com/gisonwin/kmeans/KMeansMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mark-seata/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mark-seata/src/main/java/com/gison/win/flink/service/StorageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mark-seata/src/main/java/com/gison/win/flink/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mark-seata/src/main/java/com/gison/win/flink/service/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mark-seata/src/main/java/com/gison/win/flink/service/BusinessService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3542">
+          <caret line="161" column="58" selection-start-line="161" selection-start-column="58" selection-end-line="161" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mark-seata/src/main/java/com/gison/win/flink/service/impl/BusinessServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mark-seata/src/main/java/com/gison/win/flink/dao/OrderDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mark-seata/src/main/java/com/gison/win/flink/model/SeataOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/e-mark-seata/src/main/java/com/gison/win/flink/service/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#997#998#0" expanded="true" />
+            <element signature="e#1021#1022#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flink-examples/src/main/java/com/gison/win/flink/flinkexamples/FlinkExamplesApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/info-in/src/main/java/com/gisonwin/micro/InfoInServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register-certer/src/main/java/com/gisonwin/micro/registercerter/RegisterCerterApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>flink-connector-kafka</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+version: '2.0'
+services:
+  nginx: #micro service name
+    restart: always
+    image: nginx:latest
+    ports:
+      - "8081:80"
+      - "80:80"
+    volumes: #ro ==> read only
+      -  './nginx/conf.d:/etc/nginx/conf.d:ro'
+      -  './nginx/www:/usr/share/nginx/html:ro'
+      -  './nginx/nginx.conf:/etc/nginx/nginx.conf:ro'
+      -  './nginx/log:/var/log/nginx'
